@@ -2,7 +2,7 @@ Package: firstpk
 Type: Package
 Title: What the Package Does (Title Case)
 Version: 1.1.0
-Authors@R: person('Jingxian_Xiumei','Fan_Li',email = 'Fan_love_Li@forever.com',role = c('aut'))
+Authors: person('Jingxian_Xiumei','Fan_Li',email = 'Fan_love_Li@forever.com',role = c('aut'))
 Maintainer: The package maintainer <yourself@somewhere.net>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
